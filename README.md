@@ -11,53 +11,13 @@ Table of Content
   - [**Outcomes**](#outcomes)
   - [**Agenda**](#agenda)
     - [Week 1: Swift Programming Language](#week-1-swift-programming-language)
-      - [Day 1: Introduction to iOS Development](#day-1-introduction-to-ios-development)
-      - [Day 2: Swift Basics](#day-2-swift-basics)
-      - [Day 3: Swift Functions](#day-3-swift-functions)
-      - [Day 4: Swift Advanced Concepts](#day-4-swift-advanced-concepts)
-      - [Day 5: Project 1 - Overview](#day-5-project-1---overview)
     - [Week 2: SwiftUI Framework](#week-2-swiftui-framework)
-      - [Day 1: Introduction to SwiftUI](#day-1-introduction-to-swiftui)
-      - [Day 2: SwiftUI Views and Modifiers](#day-2-swiftui-views-and-modifiers)
-      - [Day 3: SwiftUI Navigation and Data Flow](#day-3-swiftui-navigation-and-data-flow)
-      - [Day 4: SwiftUI Lists and Forms](#day-4-swiftui-lists-and-forms)
-      - [Day 5: Project 1 - Simple Task Manager](#day-5-project-1---simple-task-manager)
     - [Week 3: UIKit Framework](#week-3-uikit-framework)
-      - [Day 1: UIKit Fundamentals](#day-1-uikit-fundamentals)
-      - [Day 2: AutoLayout and Constraints](#day-2-autolayout-and-constraints)
-      - [Day 3: UITableView and UICollectionView](#day-3-uitableview-and-uicollectionview)
-      - [Day 4: Handling User Input](#day-4-handling-user-input)
-      - [Day 5: Project 2 - Overview](#day-5-project-2---overview)
     - [Week 4: iOS Frameworks and Libraries and Git](#week-4-ios-frameworks-and-libraries-and-git)
-      - [Day 1: Introduction to Git](#day-1-introduction-to-git)
-      - [Day 2: Networking and APIs](#day-2-networking-and-apis)
-      - [Day 3: Handling Device Features (1)](#day-3-handling-device-features-1)
-      - [Day 4: Handling Device Features (2)](#day-4-handling-device-features-2)
-      - [Day 5: Project 2 - Weather App](#day-5-project-2---weather-app)
     - [Week 5: SwiftUI along with UIKit](#week-5-swiftui-along-with-uikit)
-      - [Day 1: AVFoundation](#day-1-avfoundation)
-      - [Day 2: Media Library](#day-2-media-library)
-      - [Day 3: MapKit](#day-3-mapkit)
-      - [Day 4: Contacts](#day-4-contacts)
-      - [Day 5: Project 3 - Overview](#day-5-project-3---overview)
     - [Week 6: Databases \& Firebase](#week-6-databases--firebase)
-      - [Day 1: Introduction to Databases in general and Firebase in specific](#day-1-introduction-to-databases-in-general-and-firebase-in-specific)
-      - [Day 2: Firebase Authentication](#day-2-firebase-authentication)
-      - [Day 3: Firebase Cloud Firestore](#day-3-firebase-cloud-firestore)
-      - [Day 4: Firebase Storage](#day-4-firebase-storage)
-      - [Day 5: Project 3 - Social Media App](#day-5-project-3---social-media-app)
     - [Week 7: Advance Topics](#week-7-advance-topics)
-      - [Day 1: Core Data and Data Persistence](#day-1-core-data-and-data-persistence)
-      - [Day 2: Generics \& Protocols](#day-2-generics--protocols)
-      - [Day 3: App Architecture Patterns (MVC, MVVM)](#day-3-app-architecture-patterns-mvc-mvvm)
-      - [Day 4: User Input Validation](#day-4-user-input-validation)
-      - [Day 5: Final Project - Overview](#day-5-final-project---overview)
     - [Week 8: More Advanced Topics](#week-8-more-advanced-topics)
-      - [Day 1: Protocol Oriented Programming](#day-1-protocol-oriented-programming)
-      - [Day 2: Reactive Programming with (Combine)](#day-2-reactive-programming-with-combine)
-      - [Day 3: Animation with (Lottie)](#day-3-animation-with-lottie)
-      - [Day 4: Multi-threading with (Dispatch)](#day-4-multi-threading-with-dispatch)
-      - [Day 5: Final Project - Masterpiece App](#day-5-final-project---masterpiece-app)
   - [**Conclusion**](#conclusion)
 
 # Introduction
@@ -114,33 +74,33 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 ### Week 1: Swift Programming Language
 
-#### Day 1: Introduction to iOS Development
+**Day 1: Introduction to iOS Development**
 
 - Introduction to the bootcamp
 - Overview of iOS development and its significance
 - Setting up Xcode and a development environment
 - Your first Swift program
 
-#### Day 2: Swift Basics
+**Day 2: Swift Basics**
 
 - Variables, constants, and data types
 - Operators and expressions
 - Control flow (if/else, switch statements, loops)
 
-#### Day 3: Swift Functions
+**Day 3: Swift Functions**
 
 - Understanding functions and their types
 - Function parameters and return values
 - Writing reusable code with functions
 
-#### Day 4: Swift Advanced Concepts
+**Day 4: Swift Advanced Concepts**
 
 - Classes, Structs, and Enums
 - Closures and their usage
 - Error handling with do-try-catch
 - Working with optionals
 
-#### Day 5: Project 1 - Overview
+**Day 5: Project 1 - Overview**
 
 - Introduction to Github
 - Learners will work on Project 1
@@ -148,31 +108,31 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 ### Week 2: SwiftUI Framework
 
-#### Day 1: Introduction to SwiftUI
+**Day 1: Introduction to SwiftUI**
 
 - SwiftUI essentials and advantages
 - Building UI elements with SwiftUI
 - SwiftUI layout system and stacks
 
-#### Day 2: SwiftUI Views and Modifiers
+**Day 2: SwiftUI Views and Modifiers**
 
 - Understanding views and modifiers
 - Working with text, images, and buttons
 - Applying styles and animations
 
-#### Day 3: SwiftUI Navigation and Data Flow
+**Day 3: SwiftUI Navigation and Data Flow**
 
 - Creating navigation views and navigation bars
 - Passing data between views
 - Using @State, @Binding, and @ObservableObject
 
-#### Day 4: SwiftUI Lists and Forms
+**Day 4: SwiftUI Lists and Forms**
 
 - Building dynamic lists and navigation
 - Implementing forms and user input validation
 - Customizing list elements
 
-#### Day 5: Project 1 - Simple Task Manager
+**Day 5: Project 1 - Simple Task Manager**
 
 - Introduction to Data Persistence in SwiftUI
 - Introduction to HIG
@@ -180,31 +140,31 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 ### Week 3: UIKit Framework
 
-#### Day 1: UIKit Fundamentals
+**Day 1: UIKit Fundamentals**
 
 - Introduction to UIKit and its components
 - Working with UIViews and UIViewControllers
 - Creating interfaces programmatically and using Storyboards
 
-#### Day 2: AutoLayout and Constraints
+**Day 2: AutoLayout and Constraints**
 
 - Understanding AutoLayout for responsive UI
 - Implementing constraints and size classes
 - Adapting UI for different screen sizes
 
-#### Day 3: UITableView and UICollectionView
+**Day 3: UITableView and UICollectionView**
 
 - Working with table views and collection views
 - Customizing cell appearance and layout
 - Handling user interactions with cells
 
-#### Day 4: Handling User Input
+**Day 4: Handling User Input**
 
 - Working with gestures and recognizers
 - Implementing user input elements (e.g., text fields, buttons)
 - Managing keyboard interactions
 
-#### Day 5: Project 2 - Overview
+**Day 5: Project 2 - Overview**
 
 - Introduction to Data Persistence in SwiftUI
 - Introduction to HIG
@@ -213,81 +173,81 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 ### Week 4: iOS Frameworks and Libraries and Git
 
-#### Day 1: Introduction to Git
+**Day 1: Introduction to Git**
 
-#### Day 2: Networking and APIs
+**Day 2: Networking and APIs**
 
 - Introduction to networking in iOS
 - Working with URLSession to make API requests
 - Parsing JSON data and handling responses
 
-#### Day 3: Handling Device Features (1)
+**Day 3: Handling Device Features (1)**
 
 - Accessing device features (e.g., camera, location, sensors)
 - Requesting user permissions for device access
 - Integrating device capabilities into apps
 
-#### Day 4: Handling Device Features (2)
+**Day 4: Handling Device Features (2)**
 
-#### Day 5: Project 2 - Weather App
+**Day 5: Project 2 - Weather App**
 
 - Learners will continue working on Project 2
 
 ### Week 5: SwiftUI along with UIKit
 
-#### Day 1: AVFoundation
+**Day 1: AVFoundation**
 
-#### Day 2: Media Library
+**Day 2: Media Library**
 
-#### Day 3: MapKit
+**Day 3: MapKit**
 
-#### Day 4: Contacts
+**Day 4: Contacts**
 
-#### Day 5: Project 3 - Overview
+**Day 5: Project 3 - Overview**
 
 - Learners will work on Project 3
 - Implementing the user interface
 
 ### Week 6: Databases & Firebase
 
-#### Day 1: Introduction to Databases in general and Firebase in specific
+**Day 1: Introduction to Databases in general and Firebase in specific**
 
-#### Day 2: Firebase Authentication
+**Day 2: Firebase Authentication**
 
-#### Day 3: Firebase Cloud Firestore
+**Day 3: Firebase Cloud Firestore**
 
-#### Day 4: Firebase Storage
+**Day 4: Firebase Storage**
 
-#### Day 5: Project 3 - Social Media App
+**Day 5: Project 3 - Social Media App**
 
 - Learners will continue working on Project 3
 
 ### Week 7: Advance Topics
 
-#### Day 1: Core Data and Data Persistence
+**Day 1: Core Data and Data Persistence**
 
-#### Day 2: Generics & Protocols
+**Day 2: Generics & Protocols**
 
-#### Day 3: App Architecture Patterns (MVC, MVVM)
+**Day 3: App Architecture Patterns (MVC, MVVM)**
 
-#### Day 4: User Input Validation
+**Day 4: User Input Validation**
 
-#### Day 5: Final Project - Overview
+**Day 5: Final Project - Overview**
 
 - Learners will work on Final Project
 - Implementing the user interface
 
 ### Week 8: More Advanced Topics
 
-#### Day 1: Protocol Oriented Programming
+**Day 1: Protocol Oriented Programming**
 
-#### Day 2: Reactive Programming with (Combine)
+**Day 2: Reactive Programming with (Combine)**
 
-#### Day 3: Animation with (Lottie)
+**Day 3: Animation with (Lottie)**
 
-#### Day 4: Multi-threading with (Dispatch)
+**Day 4: Multi-threading with (Dispatch)**
 
-#### Day 5: Final Project - Masterpiece App
+**Day 5: Final Project - Masterpiece App**
 
 - Learners will continue working on Final Project
 
