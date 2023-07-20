@@ -105,7 +105,6 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Understanding closures and their syntax
 - Using closures for callbacks and asynchronous programming
 - Exploring higher-order functions like map, filter, and reduce
-
 - Function Best Practices: Writing Clean and Efficient Code
 
 **Day 4: Swift Advanced Concepts**
