@@ -223,11 +223,25 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 1: AVFoundation**
 
+- Understanding the AVFoundation framework
+- Working with Camera 
+- Performance and memory management
+  
 **Day 2: Media Library**
 
+- Understanding the Media Library
+- Integrating the UIImagePickerController
+- Handling media assets
+ 
 **Day 3: MapKit**
 
+- Embed maps directly into your app’s windows and views
+- Add annotations and overlays to a map to call out points of interest
+
 **Day 4: Contacts**
+- Access the user's contacts
+- Display contact information
+
 
 **Day 5: Project 3 - Social Media App**
 
