@@ -237,13 +237,30 @@ By the end of the bootcamp, learners will have completed the following four proj
 ### Week 6: Databases & Firebase
 
 **Day 1: Introduction to Databases and Firebase**
+- Create account with FireBase 
+- How to connect Firebase with Xcode
+- Download the package manager
 
 **Day 2: Firebase Authentication**
+  
+- Discover all sign-up methods
+- Building full login and signup functionality 
+- How to restore a password
 
 **Day 3: Firebase Cloud Firestore**
 
+- Uploading Date from Xcode to the Firestore
+- Download Date from Firestore to the Xcode
+- How to deal with the data using CRUD operation
+
 **Day 4: Firebase Storage**
 
+- Difference between Firebase Storage and Cloud Firestore
+- Upload/Download files including:
+   - Upload/Download to NSData in memory
+   - Download to an NSURL representing a file on a device
+   - Generate an NSURL representing the file online
+     
 **Day 5: Project 3 - Social Media App (Contd.)**
 
 - Learners will continue working on Project 3
@@ -280,3 +297,12 @@ By the end of the bootcamp, learners will have completed the following four proj
 ## **Conclusion**
 
 By the end of this bootcamp, learners will be well-versed in Swift, SwiftUI, and UIKit, and they will have completed four impressive projects demonstrating their skills and capabilities as iOS developers. We look forward to seeing our bootcamp graduates contribute to the world of iOS app development with their creativity and expertise. Let's get started on this exciting journey!
+
+## References
+- [The Swift Programming Language Book (Swift 5.7)](https://books.apple.com/us/book/the-swift-programming-language-swift-5-7/id881256329)
+- [Swift Language Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui
+)
+- [UIKit Documentation](https://developer.apple.com/documentation/uikit)
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Apple Frameworks](https://developer.apple.com/documentation/technologies)
