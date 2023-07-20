@@ -18,6 +18,7 @@ Table of Content
     - [Week 7: Advanced Topics](#week-7-advanced-topics)
     - [Week 8: More Advanced Topics](#week-8-more-advanced-topics)
   - [**Conclusion**](#conclusion)
+  - [References](#references)
 
 # Introduction
 
@@ -278,3 +279,12 @@ By the end of the bootcamp, learners will have completed the following four proj
 ## **Conclusion**
 
 By the end of this bootcamp, learners will be well-versed in Swift, SwiftUI, and UIKit, and they will have completed four impressive projects demonstrating their skills and capabilities as iOS developers. We look forward to seeing our bootcamp graduates contribute to the world of iOS app development with their creativity and expertise. Let's get started on this exciting journey!
+
+## References
+- [The Swift Programming Language Book (Swift 5.7)](https://books.apple.com/us/book/the-swift-programming-language-swift-5-7/id881256329)
+- [Swift Language Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui
+)
+- [UIKit Documentation](https://developer.apple.com/documentation/uikit)
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Apple Frameworks](https://developer.apple.com/documentation/technologies)
