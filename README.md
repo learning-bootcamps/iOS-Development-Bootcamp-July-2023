@@ -1,65 +1,62 @@
 Table of Content
 
 - [Introduction](#introduction)
-  - [**Purpose**](#purpose)
+  - [Purpose](#purpose)
   - [Expectations](#expectations)
-  - [**Code of Conduct**](#code-of-conduct)
-  - [**Your Journey**](#your-journey)
-  - [**Graduation and Certification**](#graduation-and-certification)
+  - [Code of Conduct](#code-of-conduct)
+  - [Journey](#journey)
 - [Overview](#overview)
-  - [**Goals**](#goals)
+  - [Goals](#goals)
   - [**Outcomes**](#outcomes)
-  - [**Agenda**](#agenda)
-    - [Week 1: Swift Programming Language](#week-1-swift-programming-language)
+- [**Agenda**](#agenda)
+    - [Week 1: Introduction to iOS Development and Swift Programming Language](#week-1-introduction-to-ios-development-and-swift-programming-language)
     - [Week 2: SwiftUI Framework](#week-2-swiftui-framework)
     - [Week 3: UIKit Framework](#week-3-uikit-framework)
     - [Week 4: iOS Frameworks and Libraries and Git](#week-4-ios-frameworks-and-libraries-and-git)
     - [Week 5: SwiftUI along with UIKit](#week-5-swiftui-along-with-uikit)
     - [Week 6: Databases \& Firebase](#week-6-databases--firebase)
-    - [Week 7: Advance Topics](#week-7-advance-topics)
+    - [Week 7: Advanced Topics](#week-7-advanced-topics)
     - [Week 8: More Advanced Topics](#week-8-more-advanced-topics)
   - [**Conclusion**](#conclusion)
 
 # Introduction
 
-Welcome to the iOS Development Bootcamp, an intensive and immersive program designed to equip you with the skills and knowledge needed to become proficient iOS developers. Over the next 8 weeks, we will embark on an exciting journey through the world of iOS app development, covering essential topics such as Swift, SwiftUI, UIKit, Firebase integration, app testing, and much more.
+Welcome to the iOS App Development Bootcamp! In this course, we will guide you through the exciting journey of building iOS applications. We understand that many of you are non-native English speakers, so we'll use simple language to ensure everyone can follow along easily.
 
-## **Purpose**
+## Purpose
 
-At this bootcamp, our purpose is to cultivate world-class iOS developers who can build innovative and user-friendly mobile applications. We are passionate about empowering you to create meaningful and impactful apps that delight users and leave a lasting impression.
+The purpose of this bootcamp is to equip you with the essential skills and knowledge to develop iOS apps confidently. By the end of the program, you'll be proficient in Swift, SwiftUI, UIKit, Firebase integration, OpenSource APIs, and version control using Git and Github.
 
 ## Expectations
 
-To make the most of this bootcamp, we expect learners to:
+- Attend all sessions promptly.
+- Be actively engaged and ask questions.
+- Complete assignments and projects on time.
+- Respect your fellow learners and instructors.
 
-- Attend all bootcamp sessions regularly and punctually.
-- Actively engage in discussions, ask questions, and participate in project work.
-- Complete assignments and projects on time to reinforce your learning.
-- Be open to constructive feedback and actively seek ways to improve your skills.
-- Show dedication and passion for iOS development.
+## Code of Conduct
 
-Remember, becoming a skilled iOS developer requires practice and persistence. Embrace the challenges, collaborate with your peers, and make the most of the learning opportunities provided.
+- Be respectful and considerate of others.
+- Foster a supportive and inclusive learning environment.
+- Refrain from discriminatory or offensive behavior.
+- Do not plagiarize or claim others' work as your own.
 
-## **Code of Conduct**
+## Journey
 
-Throughout the bootcamp, we expect all learners to adhere to a code of conduct that promotes a positive and inclusive learning environment. Be respectful and supportive of your fellow learners, instructors, and mentors. Discrimination, harassment, and any form of harmful behavior will not be tolerated.
-
-## **Your Journey**
-
-Each week of the bootcamp is carefully designed to provide you with a comprehensive learning experience. From the basics of Swift and SwiftUI to advanced topics like Firebase integration, app testing, and app store optimization, you will gain a holistic understanding of the iOS app development process.
-
-## **Graduation and Certification**
-
-As you progress through the bootcamp, you will have the opportunity to work on real-world projects, showcase your skills, and build a strong portfolio that can open doors to exciting career opportunities in iOS development. Upon completion of the bootcamp, you will receive a certificate recognizing your achievements and participation.
+Throughout the bootcamp, you'll embark on a hands-on journey, creating various iOS projects, from simple to complex. Each project will build upon your skills, leading to a final customized iOS app that incorporates all the techniques and services you've learned.
 
 # Overview
 
-## **Goals**
+## Goals
 
-1. **Mastery of Swift**: Learners will gain a deep understanding of the Swift programming language, including its syntax, data types, functions, and object-oriented principles.
-2. **Proficiency in SwiftUI**: Attendees will become proficient in building modern, declarative user interfaces using SwiftUI, Apple's latest framework for app development.
-3. **Familiarity with UIKit**: Learners will also get hands-on experience with UIKit, the foundational framework of iOS development, enabling them to work with existing codebases and tackle complex UI challenges.
-4. **Project-Centric Learning**: Throughout the bootcamp, learners will complete four distinct projects that showcase their newly acquired skills, creativity, and ability to build practical and polished iOS applications.
+By the end of this bootcamp, learners will achieve the following goals:
+
+- Learn Swift Programming Language
+- Attain proficiency in SwiftUI
+- Gain familiarity with UIKit
+- Understand how to integrate with Backend using Firebase
+- Learn how to use OpenSource APIs
+- Master version control with Git and Github
 
 ## **Outcomes**
 
@@ -70,40 +67,63 @@ By the end of the bootcamp, learners will have completed the following four proj
 3. **Project 3: Social Media Feed (Week 6)** - Build a social media feed app that fetches and displays posts from various users. Users can like, comment, and share posts, and the app should have a seamless user experience, and the app should use Firestore.
 4. **Project 4: Custom iOS App (Week 8)** - Learners will conceptualize and build a unique iOS app of their choice. They will have the creative freedom to demonstrate their skills and showcase their ability to develop a complete app from scratch.
 
-## **Agenda**
+# **Agenda**
 
-### Week 1: Swift Programming Language
+### Week 1: Introduction to iOS Development and Swift Programming Language
 
-**Day 1: Introduction to iOS Development**
+**Day 1: Getting Started**
 
 - Introduction to the bootcamp
 - Overview of iOS development and its significance
+- Introducing useful resources
 - Setting up Xcode and a development environment
+- Introduction to Swift Playgrounds for experimentation and learning
 - Your first Swift program
 
 **Day 2: Swift Basics**
 
+**Swift Basics**
+
+- Introduction to Swift language
 - Variables, constants, and data types
 - Operators and expressions
-- Control flow (if/else, switch statements, loops)
+- Control flow:
+  - if/else statements
+  - switch statements
+  - loops (for and while)
+- Working with collections (arrays and dictionaries)
+- Strings and string interpolation
 
 **Day 3: Swift Functions**
 
-- Understanding functions and their types
-- Function parameters and return values
-- Writing reusable code with functions
+- Function Syntax and Declaration
+- Function Parameters and Return Types
+- Understanding Function Arguments and Default Values
+- Function Overloading: Using Multiple Functions with the Same Name
+- Nested Functions: Defining Functions Inside Other Functions
+- Closures: Anonymous Functions in Swift
+- Capturing Values with Closures
+- Function Best Practices: Writing Clean and Efficient Code
 
 **Day 4: Swift Advanced Concepts**
 
-- Classes, Structs, and Enums
-- Closures and their usage
-- Error handling with do-try-catch
-- Working with optionals
+- Understanding the differences between classes, structs, and enums
+- When to use classes, structs, and enums in your app design
+- Reference types vs. value types in memory management
+- Understanding closures and their syntax
+- Using closures for callbacks and asynchronous programming
+- Exploring higher-order functions like map, filter, and reduce
+- Handling errors in Swift with do-try-catch blocks
+- Creating custom error types and error handling best practices
+- Working with NSError and error chaining
+- Understanding optionals and nil values in Swift
+- Using optional binding and force unwrapping safely
+- Implementing optional chaining for nested optional properties
 
 **Day 5: Project 1 - Overview**
 
 - Introduction to Github
-- Learners will work on Project 1
+- Learners will work on Project 1: Simple Task Manager
 - Implementing the user interface
 
 ### Week 2: SwiftUI Framework
@@ -111,14 +131,22 @@ By the end of the bootcamp, learners will have completed the following four proj
 **Day 1: Introduction to SwiftUI**
 
 - SwiftUI essentials and advantages
+  - Declarative UI
+  - Hot module reload
 - Building UI elements with SwiftUI
+- Working with text, images, and buttons
 - SwiftUI layout system and stacks
+  - VStack
+  - HStack
+  - ZStack
 
 **Day 2: SwiftUI Views and Modifiers**
 
 - Understanding views and modifiers
-- Working with text, images, and buttons
 - Applying styles and animations
+- Working with scrollviews
+- Creating custom views
+- React to device appearance theme
 
 **Day 3: SwiftUI Navigation and Data Flow**
 
@@ -132,11 +160,11 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Implementing forms and user input validation
 - Customizing list elements
 
-**Day 5: Project 1 - Simple Task Manager**
+**Day 5: Project 1 - Simple Task Manager (Contd.)**
 
 - Introduction to Data Persistence in SwiftUI
-- Introduction to HIG
-- Learners will continue working on Project 2
+- Introduction to Human Interface Guidelines (HIG)
+- Learners will continue working on Project 1
 
 ### Week 3: UIKit Framework
 
@@ -164,10 +192,8 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Implementing user input elements (e.g., text fields, buttons)
 - Managing keyboard interactions
 
-**Day 5: Project 2 - Overview**
+**Day 5: Project 2 - Weather App**
 
-- Introduction to Data Persistence in SwiftUI
-- Introduction to HIG
 - Learners will work on Project 2
 - Implementing the user interface
 
@@ -181,15 +207,15 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Working with URLSession to make API requests
 - Parsing JSON data and handling responses
 
-**Day 3: Handling Device Features (1)**
+**Day 3: Handling Device Features**
 
 - Accessing device features (e.g., camera, location, sensors)
 - Requesting user permissions for device access
 - Integrating device capabilities into apps
 
-**Day 4: Handling Device Features (2)**
+**Day 4: Project 2 - Weather App (Contd.)**
 
-**Day 5: Project 2 - Weather App**
+**Day 5: Project 2 - Weather App (Contd.)**
 
 - Learners will continue working on Project 2
 
@@ -203,14 +229,14 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 4: Contacts**
 
-**Day 5: Project 3 - Overview**
+**Day 5: Project 3 - Social Media App**
 
 - Learners will work on Project 3
 - Implementing the user interface
 
 ### Week 6: Databases & Firebase
 
-**Day 1: Introduction to Databases in general and Firebase in specific**
+**Day 1: Introduction to Databases and Firebase**
 
 **Day 2: Firebase Authentication**
 
@@ -218,11 +244,11 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 4: Firebase Storage**
 
-**Day 5: Project 3 - Social Media App**
+**Day 5: Project 3 - Social Media App (Contd.)**
 
 - Learners will continue working on Project 3
 
-### Week 7: Advance Topics
+### Week 7: Advanced Topics
 
 **Day 1: Core Data and Data Persistence**
 
@@ -234,22 +260,22 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 5: Final Project - Overview**
 
-- Learners will work on Final Project
+- Learners will work on the Final Project
 - Implementing the user interface
 
 ### Week 8: More Advanced Topics
 
 **Day 1: Protocol Oriented Programming**
 
-**Day 2: Reactive Programming with (Combine)**
+**Day 2: Reactive Programming with Combine**
 
-**Day 3: Animation with (Lottie)**
+**Day 3: Animation with Lottie**
 
-**Day 4: Multi-threading with (Dispatch)**
+**Day 4: Multi-threading with Dispatch**
 
 **Day 5: Final Project - Masterpiece App**
 
-- Learners will continue working on Final Project
+- Learners will continue working on the Final Project
 
 ## **Conclusion**
 
