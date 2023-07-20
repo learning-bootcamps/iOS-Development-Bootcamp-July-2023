@@ -224,11 +224,25 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 1: AVFoundation**
 
+- Understanding the AVFoundation framework
+- Working with Camera 
+- Performance and memory management
+  
 **Day 2: Media Library**
 
+- Understanding the Media Library
+- Integrating the UIImagePickerController
+- Handling media assets
+ 
 **Day 3: MapKit**
 
+- Embed maps directly into your app’s windows and views
+- Add annotations and overlays to a map to call out points of interest
+
 **Day 4: Contacts**
+- Access the user's contacts
+- Display contact information
+
 
 **Day 5: Project 3 - Social Media App**
 
@@ -238,13 +252,30 @@ By the end of the bootcamp, learners will have completed the following four proj
 ### Week 6: Databases & Firebase
 
 **Day 1: Introduction to Databases and Firebase**
+- Create account with FireBase 
+- How to connect Firebase with Xcode
+- Download the package manager
 
 **Day 2: Firebase Authentication**
+  
+- Discover all sign-up methods
+- Building full login and signup functionality 
+- How to restore a password
 
 **Day 3: Firebase Cloud Firestore**
 
+- Uploading Date from Xcode to the Firestore
+- Download Date from Firestore to the Xcode
+- How to deal with the data using CRUD operation
+
 **Day 4: Firebase Storage**
 
+- Difference between Firebase Storage and Cloud Firestore
+- Upload/Download files including:
+   - Upload/Download to NSData in memory
+   - Download to an NSURL representing a file on a device
+   - Generate an NSURL representing the file online
+     
 **Day 5: Project 3 - Social Media App (Contd.)**
 
 - Learners will continue working on Project 3
