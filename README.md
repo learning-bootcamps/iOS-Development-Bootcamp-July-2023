@@ -104,7 +104,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Function Overloading: Using Multiple Functions with the Same Name
 - Nested Functions: Defining Functions Inside Other Functions
 - Understanding closures and their syntax
-- Using closures for callbacks and asynchronous programming
+- Using closures for callbacks
 - Exploring higher-order functions like map, filter, and reduce
 - Function Best Practices: Writing Clean and Efficient Code
 
@@ -115,7 +115,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Reference types vs. value types in memory management
 - Handling errors in Swift with do-try-catch blocks
 - Creating custom error types and error handling best practices
-- Working with NSError and error chaining
+- Working with Error and error chaining
 - Understanding optionals and nil values in Swift
 - Using optional binding and force unwrapping safely
 - Implementing optional chaining for nested optional properties
@@ -162,6 +162,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 **Day 5: Project 1 - Simple Task Manager (Contd.)**
 
 - Introduction to Data Persistence in SwiftUI
+- -App Architecture Patterns (MVVM)
 - Introduction to Human Interface Guidelines (HIG)
 - Learners will continue working on Project 1
 
@@ -193,6 +194,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 5: Project 2 - Weather App**
 
+- App Architecture Patterns (MVC)
 - Learners will work on Project 2
 - Implementing the user interface
 
@@ -253,7 +255,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 2: Generics & Protocols**
 
-**Day 3: App Architecture Patterns (MVC, MVVM)**
+**Day 3: Protocol Oriented Programming**
 
 **Day 4: User Input Validation**
 
@@ -264,13 +266,13 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 ### Week 8: More Advanced Topics
 
-**Day 1: Protocol Oriented Programming**
+**Day 1: Reactive Programming with Combine**
 
-**Day 2: Reactive Programming with Combine**
+**Day 2: Animation with Lottie**
 
-**Day 3: Animation with Lottie**
+**Day 3: Multi-threading with Dispatch**
 
-**Day 4: Multi-threading with Dispatch**
+**Day 4: Final Project - Masterpiece App**
 
 **Day 5: Final Project - Masterpiece App**
 
@@ -283,8 +285,7 @@ By the end of this bootcamp, learners will be well-versed in Swift, SwiftUI, and
 ## References
 - [The Swift Programming Language Book (Swift 5.7)](https://books.apple.com/us/book/the-swift-programming-language-swift-5-7/id881256329)
 - [Swift Language Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
-- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui
-)
+- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
 - [UIKit Documentation](https://developer.apple.com/documentation/uikit)
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Apple Frameworks](https://developer.apple.com/documentation/technologies)
