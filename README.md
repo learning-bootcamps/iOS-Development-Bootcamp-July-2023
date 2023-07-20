@@ -102,8 +102,10 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Understanding Function Arguments and Default Values
 - Function Overloading: Using Multiple Functions with the Same Name
 - Nested Functions: Defining Functions Inside Other Functions
-- Closures: Anonymous Functions in Swift
-- Capturing Values with Closures
+- Understanding closures and their syntax
+- Using closures for callbacks and asynchronous programming
+- Exploring higher-order functions like map, filter, and reduce
+
 - Function Best Practices: Writing Clean and Efficient Code
 
 **Day 4: Swift Advanced Concepts**
@@ -111,9 +113,6 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Understanding the differences between classes, structs, and enums
 - When to use classes, structs, and enums in your app design
 - Reference types vs. value types in memory management
-- Understanding closures and their syntax
-- Using closures for callbacks and asynchronous programming
-- Exploring higher-order functions like map, filter, and reduce
 - Handling errors in Swift with do-try-catch blocks
 - Creating custom error types and error handling best practices
 - Working with NSError and error chaining
