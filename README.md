@@ -18,6 +18,7 @@ Table of Content
     - [Week 7: Advanced Topics](#week-7-advanced-topics)
     - [Week 8: More Advanced Topics](#week-8-more-advanced-topics)
   - [**Conclusion**](#conclusion)
+  - [References](#references)
 
 # Introduction
 
@@ -78,6 +79,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Introducing useful resources
 - Setting up Xcode and a development environment
 - Introduction to Swift Playgrounds for experimentation and learning
+- Introduction to Github
 - Your first Swift program
 
 **Day 2: Swift Basics**
@@ -101,8 +103,9 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Understanding Function Arguments and Default Values
 - Function Overloading: Using Multiple Functions with the Same Name
 - Nested Functions: Defining Functions Inside Other Functions
-- Closures: Anonymous Functions in Swift
-- Capturing Values with Closures
+- Understanding closures and their syntax
+- Using closures for callbacks
+- Exploring higher-order functions like map, filter, and reduce
 - Function Best Practices: Writing Clean and Efficient Code
 
 **Day 4: Swift Advanced Concepts**
@@ -110,19 +113,15 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Understanding the differences between classes, structs, and enums
 - When to use classes, structs, and enums in your app design
 - Reference types vs. value types in memory management
-- Understanding closures and their syntax
-- Using closures for callbacks and asynchronous programming
-- Exploring higher-order functions like map, filter, and reduce
 - Handling errors in Swift with do-try-catch blocks
 - Creating custom error types and error handling best practices
-- Working with NSError and error chaining
+- Working with Error and error chaining
 - Understanding optionals and nil values in Swift
 - Using optional binding and force unwrapping safely
 - Implementing optional chaining for nested optional properties
 
 **Day 5: Project 1 - Overview**
 
-- Introduction to Github
 - Learners will work on Project 1: Simple Task Manager
 - Implementing the user interface
 
@@ -163,6 +162,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 **Day 5: Project 1 - Simple Task Manager (Contd.)**
 
 - Introduction to Data Persistence in SwiftUI
+- -App Architecture Patterns (MVVM)
 - Introduction to Human Interface Guidelines (HIG)
 - Learners will continue working on Project 1
 
@@ -194,6 +194,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 5: Project 2 - Weather App**
 
+- App Architecture Patterns (MVC)
 - Learners will work on Project 2
 - Implementing the user interface
 
@@ -285,7 +286,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 2: Generics & Protocols**
 
-**Day 3: App Architecture Patterns (MVC, MVVM)**
+**Day 3: Protocol Oriented Programming**
 
 **Day 4: User Input Validation**
 
@@ -296,13 +297,13 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 ### Week 8: More Advanced Topics
 
-**Day 1: Protocol Oriented Programming**
+**Day 1: Reactive Programming with Combine**
 
-**Day 2: Reactive Programming with Combine**
+**Day 2: Animation with Lottie**
 
-**Day 3: Animation with Lottie**
+**Day 3: Multi-threading with Dispatch**
 
-**Day 4: Multi-threading with Dispatch**
+**Day 4: Final Project - Masterpiece App**
 
 **Day 5: Final Project - Masterpiece App**
 
@@ -315,8 +316,7 @@ By the end of this bootcamp, learners will be well-versed in Swift, SwiftUI, and
 ## References
 - [The Swift Programming Language Book (Swift 5.7)](https://books.apple.com/us/book/the-swift-programming-language-swift-5-7/id881256329)
 - [Swift Language Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
-- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui
-)
+- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
 - [UIKit Documentation](https://developer.apple.com/documentation/uikit)
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Apple Frameworks](https://developer.apple.com/documentation/technologies)
