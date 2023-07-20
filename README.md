@@ -78,6 +78,7 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Introducing useful resources
 - Setting up Xcode and a development environment
 - Introduction to Swift Playgrounds for experimentation and learning
+- Introduction to Github
 - Your first Swift program
 
 **Day 2: Swift Basics**
@@ -122,7 +123,6 @@ By the end of the bootcamp, learners will have completed the following four proj
 
 **Day 5: Project 1 - Overview**
 
-- Introduction to Github
 - Learners will work on Project 1: Simple Task Manager
 - Implementing the user interface
 
