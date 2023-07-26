@@ -113,9 +113,9 @@ By the end of the bootcamp, learners will have completed the following four proj
 - Understanding the differences between classes, structs, and enums
 - When to use classes, structs, and enums in your app design
 - Reference types vs. value types in memory management
-- Handling errors in Swift with do-try-catch blocks
-- Creating custom error types and error handling best practices
-- Working with Error and error chaining
+- ~Handling errors in Swift with do-try-catch blocks~
+- ~Creating custom error types and error handling best practices~
+- ~Working with Error and error chaining~
 - Understanding optionals and nil values in Swift
 - Using optional binding and force unwrapping safely
 - Implementing optional chaining for nested optional properties
