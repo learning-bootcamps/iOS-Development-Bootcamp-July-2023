@@ -1,6 +1,4 @@
 
-under editing
-
 # Objective:
 
 These lab exercises should give you a good starting point for practicing these concepts. Good luck with your iOS development journey!
