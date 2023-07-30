@@ -53,6 +53,7 @@ In this lab, students will learn how to create navigation views and navigation b
 ## Grading Criteria:
 
 Your lab assignment will be graded based on the following criteria:
+
 - Correctness and completion of tasks (50%)
 - Code quality, readability, and adherence to best practices (30%)
 - Proper implementation of SwiftUI navigation and data passing (20%)

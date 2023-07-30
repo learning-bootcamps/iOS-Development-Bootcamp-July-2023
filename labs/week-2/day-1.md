@@ -54,6 +54,7 @@ In this lab, students will learn the essentials of SwiftUI and work with text, i
 ## Grading Criteria:
 
 Your lab assignment will be graded based on the following criteria:
+
 - Correctness and completion of tasks (50%)
 - Code quality, readability, and adherence to best practices (30%)
 - Creativity and utilization of SwiftUI features (20%)
