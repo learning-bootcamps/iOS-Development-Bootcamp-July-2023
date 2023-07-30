@@ -42,7 +42,9 @@ In this lab, students will explore various SwiftUI concepts, including views and
 
 ## Submission Guidelines:
 
-Submit the completed Swift playground or Xcode project via email to [Lab Instructor's Email].
+- Create new repository name it as "iOS-Developemnt-Bootcamp-July-2023-Week-2-Day-2-Lab".
+- Upload your project files to the repo you just created.
+- Submit your project repo link as comment to [here](https://github.com/learning-bootcamps/iOS-Development-Bootcamp-July-2023/issues/12).
 
 ## Grading Criteria:
 
@@ -59,4 +61,4 @@ Your lab assignment will be graded based on the following criteria:
 
 ## Deadline:
 
-Submit your completed lab assignment by [Specified Deadline].
+Submit your completed lab assignment prior start of next session.
