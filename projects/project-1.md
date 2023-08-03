@@ -64,7 +64,7 @@ Create a Simple Todo List App that allows users to add, delete, and update tasks
 
 - Create new repository name it as "iOS-Developemnt-Bootcamp-July-2023-Project-1".
 - Upload your project files to the repo you just created.
-- Submit your project repo link as comment to [here](https://github.com/learning-bootcamps/iOS-Development-Bootcamp-July-2023/issues/14).
+- Submit your project repo link as comment to [here](https://github.com/learning-bootcamps/iOS-Development-Bootcamp-July-2023/issues/16).
 
 ## Grading Criteria
 
