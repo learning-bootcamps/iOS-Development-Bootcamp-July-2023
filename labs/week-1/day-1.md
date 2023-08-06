@@ -2,11 +2,6 @@
 
 In this lab, you will learn how submission process work in this bootcamp, as well as learn basics of GitHub.
 
-# Instructions:
-
-1. Create an empty Swift playground project.
-2. Follow the instructions carefully for each task.
-
 # Requirements:
 
 1. Xcode v13 or higher installed
