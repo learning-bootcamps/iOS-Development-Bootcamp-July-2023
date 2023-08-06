@@ -15,11 +15,11 @@ In this lab, you will learn how to deal with UIKit Fundamentals and try to disco
 # Tasks:
 
 1. Create an empty storyboard project.
-2. Add UI components to your view, such as labels, buttons, text fields, and image views3. Configure your account as you like.
-3. Create a new project in Xcode and choose "Single View App" template.
-4. Familiarize yourself with the UIView and UIViewController classes and their properties and methods.
-5. Create another swift file name “SeconedView” and you have to create the interfaces programmatically.
-6. Add some text fields, Buttons, or anything that you want also programmatically.
+2. Create a RootViewController which contains 4 buttons each button linked to each of the below SubViewControllers
+3. SubViewControllers1: Add `TextField` and a `Label` that mirrors textField value
+4. SubViewControllers2: Add `Stepper` and a `Label` that mirrors stepper value
+5. SubViewControllers3 Add `Slider` and a `Label` that mirrors slider value
+6. SubViewControllers4 Add `Switch` and a `Label` that mirrors textField value
 
 ## Submission Guidelines:
 
