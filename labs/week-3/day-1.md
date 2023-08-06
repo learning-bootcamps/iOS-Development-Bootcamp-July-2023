@@ -1,6 +1,6 @@
 # Objective:
 
-In this lab, you will learn how to deal with UIKit Fundamentals and try to discover it 
+In this lab, you will learn how to deal with UIKit Fundamentals and try to discover it.
 
 # Instructions:
 
@@ -21,26 +21,26 @@ In this lab, you will learn how to deal with UIKit Fundamentals and try to disco
 5. Create another swift file name “SeconedView” and you have to create the interfaces programmatically.
 6. Add some text fields, Buttons, or anything that you want also programmatically.
 
+## Submission Guidelines:
+
+- Create new repository name it as "iOS-Developemnt-Bootcamp-July-2023-Week-3-Day-1-Lab".
+- Upload your project files to the repo you just created.
+- Submit your project repo link as comment to [here](https://github.com/learning-bootcamps/iOS-Development-Bootcamp-July-2023/issues/17).
+
 # Grading Criteria:
 
-Your lab assignment will be graded based on your following the given instructions.
+Your lab assignment will be graded based on the following criteria:
+
+- Correctness and completion of tasks (50%)
+- Code quality, readability, and adherence to best practices (30%)
+- Creativity and utilization of SwiftUI features (20%)
 
 # Additional Notes:
 
-Feel free to ask questions during the lab session or seek assistance from the instructors if you encounter any difficulties.
+- You may ask the lab instructor for assistance during lab hours.
+- Avoid plagiarism; write the code yourself.
+- Late submissions will not be accepted without prior approval.
 
 # Deadline:
 
 Submit your completed lab assignment prior start of next session.
-
-
-
-
-
-
-
-
-
-
-
-
